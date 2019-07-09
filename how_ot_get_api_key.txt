@@ -1,0 +1,4 @@
+1.https://openweathermap.org/
+2.Create an account.
+3.API keys 
+4.get the Key (9d3f2e1e760fc73709c43804c7ere46a etc...)
