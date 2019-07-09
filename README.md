@@ -1,6 +1,6 @@
 # GUI-Weather-App-with-Tkinter
-Simple app that pull weather focest form web.
-inspired by KeithGalli Youtube tutorial.
+Simple app that pull weather focest form Web.
+Inspired by KeithGalli Youtube tutorial.
 
 Simple weather app with Tkinter.
 Images used in this project are not my property.
