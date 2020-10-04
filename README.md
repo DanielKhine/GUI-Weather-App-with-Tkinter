@@ -1,11 +1,1 @@
-# GUI-Weather-App-with-Tkinter
-Simple app that pull weather focest form Web.
-Inspired by KeithGalli's Youtube tutorial.
-
-GUI Weather app with Tkinter. 
-Images used in this project are not my property. 
-Read how_to_get_api_key.txt for 'api-key'. 
-You can get "img" directory by running "get_icon.py". 
-WeatherApp.rar include weatherapp's executable. 
-
->>How to use app: Type a city name or Zip code.
+# Weather app using Python and Tkinter
